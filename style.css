@@ -1,0 +1,13 @@
+Style.css
+body {
+    background-color: yellow;
+}
+
+H2 {color: seagreen;}
+
+H3 {color:slateblue}
+
+div {
+    background-color: peachpuff;
+    border: 5px solid red
+}
